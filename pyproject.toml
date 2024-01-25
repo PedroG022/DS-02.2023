@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "DS-02.2023"
+version = "0.1.0"
+description = ""
+authors = ["Pedro  <55058149+PedroG022@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
